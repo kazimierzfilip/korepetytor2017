@@ -1,0 +1,102 @@
+﻿1  Zaznacz zdanie prawdziwe. 
+A Przedziałem ufności nazywamy zakres wyników na danej skali, w ramach którego można z określonym prawdopodobieństwem oczekiwać rzeczywistego wyniku osoby badanej. 
+B Przedział ufności odnosi się do warunków przestrzegania tajemnicy zawodowej psychologa i dotyczy zakresu spraw wymagających bezwzględnej poufności. 
+C Przedział ufności wynika z konieczności poprawki wyników uzyskanych przez osobę badaną ze względu na poziom ujawnionej przez nią potrzeby aprobaty społecznej. 
+D Przedział ufności wiąże się z pojęciem konfliktu interesów, którego obecność w przypadku konkretnego badania znacznie obniża wiarygodność badania diagnostycznego. 
+a
+2  Istotą metody Q-sort jest:
+A Możliwość generowania przez osobę badaną określeń samoopisowych  charakterystycznych jedynie dla niej. 
+B Konieczność rozłożenia kart zawierających pozycje testowe zgodnie ze schematem wzorowanym na tzw. „krzywej normalnej”. 
+C Badanie umożliwiające diagnozę zaburzeń psychicznych. 
+D Możliwość obliczenia wskaźnika kongruencji. 
+a
+3  Metody oparte na próbach zadaniowych w odróżnieniu od technik projekcyjnych:
+A Umożliwiają mniejszą swobodę osoby badanej w manipulowaniu wynikami badania. 
+B Dają pogląd na podstawowe cechy osobowości człowieka. 
+C Umożliwiają określenie tzw. „zachowań typowych” dla danej osoby. 
+D Mogą być pomocne do określenia tzw. zachowań maksymalnych. 
+d
+4  W modelu diagnozy nozologicznej
+A Psycholog skupia się na wyjaśnianiu mechanizmów zaburzeń występujących u badanej osoby. 
+B Psycholog koncentruje się na badaniu objawów w celu dokonania tzw. „rozpoznania”. 
+C Psycholog stara się wspólnie z osobą badaną zrozumieć źródła jej zaburzeń. 
+D Psycholog koncentruje się na indywidualnych właściwościach osoby badanej. 
+b
+5  Podejście całościowe wymagane przy interpretacji metod projekcyjnych takich, jak np. „rysunek rodziny”, polega na:
+A Wyodrębnianiu w wypowiedzi/rysunku osoby badanej określonych wskaźników interesującego nas zjawiska i jego interpretacji w świetle całej wiedzy, jaką mamy o osobowości osoby badanej. 
+B Interpretowaniu związków pomiędzy większością elementów zawartych w wypowiedzi/rysunku osoby badanej. 
+C Wyodrębnianiu w wypowiedzi/rysunku osoby badanej ustalonych uprzednio w sposób empiryczny wskaźników interesującego nas zjawiska, ich sumowaniu w ogólny wskaźnik oraz jego interpretacji w odniesieniu do norm. 
+D Interpretacji wypowiedzi/rysunku osoby badanej w kontekście całego doświadczenia klinicznego psychologa, przy uwzględnieniu koniecznego warunku, jakim jest jego biegłość w posługiwaniu się określoną metodą. 
+a
+6  Formalny model diagnozowania:
+A Jest zalecany głównie w opiniowaniu sądowym, natomiast ma mniejsze zastosowanie w diagnozie klinicznej. 
+B Polega na korzystaniu z jasno określonych, sprawdzonych empirycznie formuł postępowania diagnostycznego. 
+C Bazuje na doświadczeniu diagnosty i wypracowanych przez niego indywidualnych formułach postępowania. 
+D Nie nadaje się do prowadzenia badań przesiewowych. 
+b
+7  Zaznacz zdanie fałszywe. 
+A Szczegółowe wyniki badań psychologicznych, np. sposób odpowiadania na pytana kwestionariusza, są poufne i bez zgody osoby badanej nie mogą zostać ujawnione. 
+B W sytuacji diagnozy, której efektem jest opinia psychologiczna napisana np. na potrzeby sądu, należy korzystać z metod o pozytywnie zweryfikowanej wartości. 
+C W przypadku diagnozy niezwiązanej z koniecznością sporządzania opinii psychologicznej na potrzeby zewnętrznej instytucji, np. w diagnozie na potrzeby terapii, możemy korzystać z metod o niesprawdzonej wartości psychometrycznej. 
+D Testy psychologiczne mogą być dostępne wyłącznie dla psychologów, jak również wyłącznie przez nich stosowane. 
+c
+8  Zasada unikania konfliktu interesu odnosi się do sytuacji, gdy:
+A Na proces diagnozy mogą wpłynąć zobowiązania diagnosty nie wynikające bezpośrednio z procesu diagnozy, np. jego osobiste wartości, czy też przekonania polityczne. 
+B Na proces diagnozy mogą wpłynąć zobowiązania osoby diagnozowanej nie wynikające bezpośrednio z procesu diagnozy, np. jej osobiste wartości, czy też przekonania polityczne. 
+C Obydwie powyższe odpowiedzi (a i b) są prawdziwe. 
+D Żadna z powyższych odpowiedzi (a i b) nie jest prawdziwa. 
+c
+9  Które z poniższych założeń stoi u podstaw metod kwestionariuszowych:
+A Człowiek jest na ogół nieświadom procesów, które kierują jego zachowaniem. 
+B Poprzez reprezentatywną próbkę zachowań ujętych w postaci pozycji testowych, możemy dotrzeć do cech osoby badanej. 
+C Samoopis nie jest rzetelnym i wiarygodnym źródłem danych o osobie badanej. 
+D Osoby najczęściej zniekształcają sposób w jaki przedstawiają własne zachowania i cechy. 
+b
+10 Wywiad swobodny:
+A Daje możliwość uzyskania wyników porównywalnych pod względem właściwości do wywiadu ustrukturyzowanego. 
+B Służy głównie do nakreślenia obszaru diagnozy oraz postawienia hipotez diagnostycznych. 
+C Nie powinien być nagrywany oraz transkrybowany bez wyraźnej konieczności. 
+D W odróżnieniu do innych form wywiadu nie jest ustrukturyzowany. 
+b
+11 Zgodnie z modelem decyzyjnym Gottlieba ryzyko wystąpienia konfliktu ról zmniejsza się między innymi, gdy:
+A  Opinia diagnosty ma duże znaczenie dla dalszych losów osoby badanej. 
+B Relacja diagnostyczna nie jest rozciągnięta na długi okres czasu. 
+C Relacja diagnostyczna nie została jednoznacznie zakończona, niemniej jednak została zawieszona. 
+D Opinia diagnosty była jednoznacznie pozytywna dla osoby badanej. 
+b
+12 Trafność testu odpowiada na pytanie o to:
+A Jaki jest potwierdzony empirycznie obszar zastosowania testu. 
+B Jaki jest błąd pomiaru danego testu. 
+C W jakim stopniu wynik badania zależy od warunków jego przeprowadzania. 
+D W jakim stopniu wynik badania zależy od osoby diagnosty, który je przeprowadza. 
+a
+13  Próby zadaniowe:
+A Służą do diagnozowania wyłącznie zdolności intelektualnych. 
+B  Umożliwiają określenie poziomu wykonania określonego zadania, które służy do szacowania poziomu określonej w badaniu zdolności. 
+C  Dostarczają wyników, które dotyczą poziomu zdolności, i są najczęściej silnie skorelowane z metodami samo opisowymi. 
+D  W porównaniu do kwestionariuszy są mniej przydatne w przewidywaniu sukcesów zawodowych. 
+b
+14  Efekt Rosenthala dotyczy sytuacji, w której:
+A Zachowania osoby badanej potwierdzają wstępne oczekiwania diagnosty. 
+B Sposób, w jaki psycholog podchodzi do diagnozy zależy od wstępnych oczekiwań osoby badanej. 
+C Oczekiwania środowiska osoby badanej, które jest źródłem tzw. „protodiagnozy”, wpływają na kształt badania diagnostycznego. 
+D Osoba badana w sposób nieświadomy prowokuje diagnostę, aby traktował ją zgodnie z jej obrazem siebie. 
+a
+15  Istotą kryterialnej strategii konstruowania kwestionariuszy jest:
+A Wybór puli pozycji testowych na bazie oceny sędziów kompetentnych. 
+B Zastosowanie analizy czynnikowej, jako podstawowej metody wyodrębniania skal w kwestionariuszu. 
+C Zastosowanie kryterium wewnętrznej zgodności, jako podstawy do oceny psychometrycznej tworzonego testu. 
+D Zastosowanie zewnętrznego kryterium różnicującego dwie grupy osób i pozwalającego na identyfikację pozycji testowych specyficznych dla każdej z grup. 
+d
+16  Zgodnie z zaczerpniętą z nauk medycznych definicją diagnozy psychologicznej opartej na dowodach empirycznych, jej elementem nie jest:
+A Opieranie się na wynikach badań naukowych
+B Biegłość, doświadczenie i umiejętności kliniczne diagnosty
+C Uwzględnienie indywidualnych właściwości klienta, jego preferencji i kultury z jakiej pochodzi. 
+D Wpływanie na system opieki zdrowotnej obowiązujący w danym kraju w celu jego jego dopasowania do najnowszych standardów diagnozowania zweryfikowanych empirycznie. 
+d
+17  Techniki projekcyjne stosujemy głównie:
+A Przy weryfikacji hipotez dotyczących podstawowych cech osobowości. 
+B W sytuacji konieczności ujawnienia faktów z życia, co do których mamy podejrzenie, że osoba badana będzie próbowała kłamać lub je ukrywać. 
+C Przy diagnozowaniu utajonych mechanizmów i motywów, które organizują percepcję, myślenie i zachowanie osoby badanej. 
+D Przy badaniu osób skierowanych na badanie na wskutek orzeczenia sądu.
+c
