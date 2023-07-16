@@ -1,0 +1,39 @@
+object Form2: TForm2
+  Left = 416
+  Top = 259
+  BorderStyle = bsToolWindow
+  Caption = 'Tablica wynik'#243'w'
+  ClientHeight = 288
+  ClientWidth = 275
+  Color = clBtnFace
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -11
+  Font.Name = 'MS Sans Serif'
+  Font.Style = []
+  OldCreateOrder = False
+  PixelsPerInch = 96
+  TextHeight = 13
+  object RichEdit1: TRichEdit
+    Left = 0
+    Top = 0
+    Width = 275
+    Height = 288
+    Align = alClient
+    Alignment = taCenter
+    Enabled = False
+    Lines.Strings = (
+      '')
+    TabOrder = 0
+  end
+  object OpenDialog1: TOpenDialog
+    FileName = 'bin/chart.txt'
+    Left = 16
+    Top = 16
+  end
+  object SaveDialog1: TSaveDialog
+    FileName = 'bin/chart.txt'
+    Left = 48
+    Top = 16
+  end
+end
